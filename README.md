@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Multi-Tier Architecture on AWS using Terraform
 
 Deploy a scalable and resilient multi-tier architecture on AWS using Terraform.
@@ -134,3 +135,7 @@ Contributions are Welcome! Please read my Contributing Guidelines to get started
 
 ## 📄 License
 This project is licensed under the MIT License.
+=======
+# Terraform-on-AWS
+This project allows us to deploy a highly available, scalable, and secure multi-tier architecture on Amazon Web Services (AWS) using Terraform
+>>>>>>> 1bedc37e35df5e54d905eb5c12a05fff102f32c6
